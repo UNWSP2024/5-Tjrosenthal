@@ -6,6 +6,7 @@
 
 #Tanner Rosenthal
 #2/20/2025
+#Kilometers to miles converter
 
 def distance_converter(m1):
     miles = m1 * 0.6214
