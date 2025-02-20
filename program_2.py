@@ -3,7 +3,7 @@
 
 #Tanner Rosenthal
 #2/20/2025
-
+#Random math quiz
 import random
 
 def quiz():
